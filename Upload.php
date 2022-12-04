@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Storage;
 use Ixudra\Curl\Facades\Curl;
 
-class UploadRepository {
+class Upload {
     public function __construct()
     {}
 
